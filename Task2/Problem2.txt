@@ -1,0 +1,9 @@
+1) Start
+2) Initialize low=0 and high=1
+3) Input a number (n) to find n th fibonacci number
+4) Repeat the following from i=0 to i<n
+	high=high+low
+	low=high-low
+	increment i
+5) print low
+6) End

@@ -1,0 +1,7 @@
+1) Start
+2) Input a number (num) to find if it's divisible by 3 or not
+3) if (num-(3x(num/3)) is zero 
+	  print "True"
+   else 
+	  print "False"
+4)End
